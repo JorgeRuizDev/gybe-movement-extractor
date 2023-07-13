@@ -17,7 +17,7 @@ By default this script will read the filenames of each album declared in the jso
 This script is meant to be used with FLAC sources 
 
 ```bash
-git clone 
+git clone https://github.com/JorgeRuizDev/gybe-movement-extractor.git
 
 python split.py
 ```
