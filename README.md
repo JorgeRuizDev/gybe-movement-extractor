@@ -4,6 +4,11 @@ This is a simple script to extract the movements from the song titles of the ban
 
 The movements in the file `lps.json` are extracted from the wikipedia page of each LP.
 
+## Before Reading
+> **Note**
+> 
+> Use Soulseek, there you can find movement LPs with clean metadata!
+
 ## Requirements
 
 - Python 3.9 or greater (due to type-hints)
